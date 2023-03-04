@@ -12,6 +12,6 @@ images:
 - digest: sha256:094e23632a09e8833f671bd41727aefb363e0edd593a631954623d2680fe3e4c
   name: quay.io/ppavanku/vote-api
   newName: quay.io/ppavanku/vote-api
-- digest: sha256:e77915c9f9fd3586255303b498ed828bc0fba834414ffd02c2fa184aece132fd
+- digest: sha256:5968a0bafaa08c2dd925b6b4b1dd2b8e2c91b07d116bedaf2365cfb8d065dee9
   name: quay.io/ppavanku/vote-ui
   newName: quay.io/ppavanku/vote-ui
