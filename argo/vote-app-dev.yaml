@@ -10,7 +10,7 @@ spec:
   project: default 
   source: 
     path: environment/dev
-    repoURL: https://github.com/blues-man/vote-app-gitops
+    repoURL: https://github.com/phpavan/vote-app-gitops
     targetRevision: develop
   syncPolicy: 
     automated:
